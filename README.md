@@ -3,7 +3,8 @@ Una semplice implementazione di un Chatbot, utilizzando Python.
 
 Il training viene fatto su un dataset costruito da frasi in lingua Italiana.
 
-# Un esempio di una conversazione tipica potrebbe essere qualcosa del genere:
+# Esempio 
+Una conversazione tipica potrebbe essere qualcosa del genere:
 
 utente: Ciao! Come stai?
 bot: bene, e tu?
