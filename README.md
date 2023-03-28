@@ -7,13 +7,13 @@ La base di conoscenza iniziale è basata su un dataset costituito da frasi in li
 Una conversazione tipica potrebbe essere qualcosa del genere:
 
 
-utente: Ciao! Come stai?
+🙍🏻‍♂️ utente: Ciao! Come stai?
 
-bot: bene, e tu?
+🤖 bot: bene, e tu?
 
-utente: anche io sto bene.
+🙍🏻‍♂️ utente: anche io sto bene.
 
-bot: Ti piace la pizza?
+🤖 bot: Cosa fai stasera?
 
 
 ## Come funziona
